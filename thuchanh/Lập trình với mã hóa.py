@@ -3,7 +3,7 @@ import sympy
 import random
 import math
 
-# Hàm tính
+# Helloooc con vo nhe
 def bipow(a, b, m):
     if b==0:
         return 1
