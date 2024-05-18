@@ -3,7 +3,7 @@ import sympy
 import random
 import math
 
-# Hàm tính lũy thừa a^b mod m
+# Hàm tính
 def bipow(a, b, m):
     if b==0:
         return 1
