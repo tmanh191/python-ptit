@@ -1,0 +1,1 @@
+{"name":"Local: 021","url":"e:\\Code\\Python\\Code PTIT\\py01\\021.py","tests":[{"id":1713176144923,"input":"2\nAC2BEW3\nACCBA10D2EW30","output":"ABCEW5\nAABCCDEW6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\Python\\Code PTIT\\py01\\021.py","group":"local","local":true}

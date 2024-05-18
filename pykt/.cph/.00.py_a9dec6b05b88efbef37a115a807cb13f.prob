@@ -1,0 +1,1 @@
+{"name":"Local: 00","url":"e:\\Code\\Python\\Code PTIT\\pykt\\00.py","tests":[{"id":1715959746186,"input":"Lap trinh huong doi tuong\nNgon ngu lap trinh C++","output":"c++ doi huong lap ngon ngu trinh tuong\nlap trinh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\Python\\Code PTIT\\pykt\\00.py","group":"local","local":true}

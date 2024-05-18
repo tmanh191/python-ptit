@@ -1,0 +1,1 @@
+{"name":"Local: 033","url":"e:\\Code\\Python\\Code PTIT\\py01\\033.py","tests":[{"id":1713167794652,"input":"15 20","output":"(15, 16, 17)\n(15, 16, 19)\n(15, 17, 19)\n(16, 17, 19)\n(17, 18, 19)\n(17, 19, 20)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\Python\\Code PTIT\\py01\\033.py","group":"local","local":true}
