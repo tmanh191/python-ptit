@@ -1,0 +1,1 @@
+{"name":"Local: 04004","url":"e:\\Code\\Src_Code\\python-ptit\\luyencode\\04004.py","tests":[{"id":1717292960600,"input":"123 456 12 34","output":"1609/2584"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\Src_Code\\python-ptit\\luyencode\\04004.py","group":"local","local":true}

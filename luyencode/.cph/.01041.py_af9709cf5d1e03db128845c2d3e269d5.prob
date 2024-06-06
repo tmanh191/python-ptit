@@ -1,0 +1,1 @@
+{"name":"Local: 01041","url":"e:\\Code\\Src_Code\\python-ptit\\luyencode\\01041.py","tests":[{"id":1717214808624,"input":"4\n12342\n23342\n5678961\n123456544","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\Src_Code\\python-ptit\\luyencode\\01041.py","group":"local","local":true}
