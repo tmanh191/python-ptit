@@ -1,6 +1,16 @@
-from googletrans import Translator
+def caesar_encode(text, shift):
+    encoded_text = ""
+    for char in text:
+        if char.isalpha():
+            ascii_offset = ord('a') if char.islower() else ord('A')
+            encoded_char = chr((ord(char) - ascii_offset + shift) % 26 + ascii_offset)
+            encoded_text += encoded_char
+        else:
+            encoded_text += char
+    return encoded_text
 
-translator = Translator()
-text = "Replace with your english text"  # Replace with your English text
-translated = translator.translate(text, dest='vi')
-print(translated.text)
+# Example usage
+plaintext = "Hello, World!"
+shift = 3
+ciphertext = caesar_encode(plaintext, shift)
+print("Ciphertext:", ciphertext)
